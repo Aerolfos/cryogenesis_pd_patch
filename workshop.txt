@@ -1,0 +1,10 @@
+[h3]3.4 compatible. Might work on other versions too, but the launcher will complain.[/h3]
+
+You were not able to select the special trait for cryogenic species with the frozen Planetary Diversity worlds, so this patch fixes that.
+
+Feedback is welcome for other edge-case interactions to fix.
+
+Overwrites one species traits file, which includes the other traits, but there's no other way to do it with stellaris code. Notify me for updates to Cryogenesis traits.
+
+
+Requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2696518608]Cryogenesis[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=819148835]Planetary Diversity[/url].
